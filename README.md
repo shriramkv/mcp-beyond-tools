@@ -74,6 +74,7 @@ mcp-beyond-tools/
 
 ## Author
 
-Shriram K Vasudevan ([@shriramkv](https://github.com/shriramkv)), AAIF Ambassador, Docker Captain, Microsoft MVP.
+Shriram K Vasudevan ([@shriramkv](https://github.com/shriramkv)), AAIF Ambassador. 
+YouTube: https://www.youtube.com/shriramvasudevan
 
 Licensed under MIT.
