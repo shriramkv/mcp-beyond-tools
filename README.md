@@ -74,7 +74,7 @@ mcp-beyond-tools/
 
 ## Author
 
-Shriram K Vasudevan ([@shriramkv](https://github.com/shriramkv)), AAIF Ambassador. 
+Shriram K Vasudevan ([@shriramkv](https://github.com/shriramkv))
 YouTube: https://www.youtube.com/shriramvasudevan
 
 Licensed under MIT.
