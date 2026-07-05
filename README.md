@@ -4,7 +4,6 @@
 
 Most MCP servers in the wild expose everything as a tool, even plain data reads. That forces the host through a code-execution consent flow for what should have been a simple read, bloats the model's context window with tool schemas, and makes auditing harder. This repository is a small, complete, tested server (**DocVault**, a local document vault) built to demonstrate the correct split.
 
-This is the code companion to the AAIF Ambassador blog post *"The Unknowns of MCP: What Most Developers Still Haven't Noticed"*, specifically Unknown 1 (tools are only one of the primitives) and Unknown 6 (context economics).
 
 ## The rule of thumb this repo demonstrates
 
